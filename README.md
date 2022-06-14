@@ -21,7 +21,7 @@
   - 🌱 I’m currently learning the Vue.js and other Javascript libraries. SOON.
   - 👯 I’m looking to collaborate people working on web development projects.
   - 😄 Pronouns: Btw, I am She.
-  - ⚡ Fun fact: My height is not average as a young woman here in the Philippines.
+  - ⚡ Fun fact: I'm a bit tall girl for the Filipino's perspective.
 
 ### 👨‍💻 Done Project:
  - DETECH: System Software for Face Mask and Face Shield detection with the Utilization of YOLOv5
