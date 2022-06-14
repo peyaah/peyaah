@@ -17,7 +17,7 @@
 - Self-taught web developer, currently an intern, front-end developer, and UI/UX designer. On the process career.
 
   - 🌏 Philippines. 
-  - 🔭 I’m currently working on helping of our company's client webpage UI migration from Primeface to Vuetify.
+  - 🔭 I’m currently working on helping with our company's client webpage UI migration from Primeface to Vuetify.
   - 🌱 I’m currently learning the Vue.js and other Javascript libraries. SOON.
   - 👯 I’m looking to collaborate people working on web development projects.
   - 😄 Pronouns: Btw, I am She.
