@@ -11,7 +11,7 @@
 
 
   
-### Hi there, my name is Pia Angelique Dee 👋
+### Hi there, my name is Pia Angelique 👋
 
 ### 💻 About Me:
 - Self-taught web developer, currently an intern, front-end developer, and UI/UX designer. On the process career.
