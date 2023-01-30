@@ -14,11 +14,11 @@
 ### Hi there, my name is Pia Angelique 👋
 
 ### 💻 About Me:
-- Self-taught web developer, currently an intern, front-end developer, and UI/UX designer. On the process career.
+- Aspiring full-stack web developer, fresh graduate computer science, currently focused on front-end developer, and do UI/UX design projects on mobile and web. On the process career.
 
   - 🌏 Philippines. 
-  - 🔭 I’m currently working on helping with our company's client webpage UI migration from Primeface to Vuetify.
-  - 🌱 I’m currently learning the Vue.js and other Javascript libraries. SOON.
+  - 🔭 I’m currently practicing my web development skilss.
+  - 🌱 I’m currently learning the Vue.js and other Javascript libraries.
   - 👯 I’m looking to collaborate people working on web development projects.
   - 😄 Pronouns: Btw, I am She.
   - ⚡ Fun fact: I'm a bit tall girl for the Filipino's perspective.
